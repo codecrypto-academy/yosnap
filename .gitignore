@@ -1,0 +1,9 @@
+back/node_modules/
+front/node_modules/
+back/.env
+front/.env
+back/*.log
+front/*.log
+.DS_Store
+back/.DS_Store
+front/.DS_Store
